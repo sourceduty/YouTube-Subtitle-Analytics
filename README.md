@@ -1,7 +1,7 @@
 # YouTube-Subtitle-Analytics 
-Scrape, analyze and sort YouTube video subtitles with Python.
+📺 Scrape, analyze and sort YouTube video subtitles with Python.
 
-Created on January 16, 2023.
+##
 
 Instructions:
 
@@ -11,3 +11,11 @@ Instructions:
 4. Copy subtitles.txt to Analytics folder.
 5. Run Caption_Analytics.py.
 6. Open analytics.txt and popular.txt.
+
+##
+
+Copyright (c) 2023, Sourceduty
+
+https://www.sourceduty.com/games
+
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
